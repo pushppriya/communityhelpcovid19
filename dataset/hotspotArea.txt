@@ -145,9 +145,9 @@ West Bengal	Howrah	 Mallick Fatak area	https://www.newindianexpress.com/nation/2
 West Bengal	Howrah	Foreshore road	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 West Bengal	Howrah	Rajballabh Saha Lane	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 West Bengal	Howrah	Salkia	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Dumdum	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Salt Lake	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
-West Bengal	Howrah	Ultadanga	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
+West Bengal	North 24 Parganas	Dumdum	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
+West Bengal	North 24 Parganas	Salt Lake	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
+West Bengal	Kolkata	Ultadanga	https://www.newindianexpress.com/nation/2020/apr/11/west-bengal-to-impose-total-lockdown-in-10-covid-19-hotspots-chief-secretary-rajiva-sinha-2128687.html
 Assam	Guwahati	Athgaon Kabarsthan Masjid	https://www.ndtv.com/india-news/assam-coronavirus-news-guwahatis-athgaon-kabarsthan-masjid-declared-hotspot-after-first-death-in-sta-2209846
 Maharashtra	Thane	Kajuwadi	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
 Maharashtra	Thane	 Dosti Vihar	https://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-15-covid-19-hotspots-identified-in-thane/articleshow/75081096.cms
@@ -676,3 +676,5 @@ Himachal Pradesh	Una	Nakdoh of Amb region	https://www.jagran.com/himachal-prades
 Himachal Pradesh	Una	Kutheda Kharela	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Kangra	Gangath Bazar	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
 Himachal Pradesh	Kangra	McLeodganj	https://www.jagran.com/himachal-pradesh/kangra-coronavirus-alert-himachal-govt-mark-hot-spot-in-five-district-due-to-corona-high-cases-20178237.html
+Maharashtra	Nagpur	Gitanjali Square	https://twitter.com/ANI/status/1250258393996107777
+Maharashtra	Nagpur	Hasanbagh	https://twitter.com/ANI/status/1250258393996107777
