@@ -4560,19 +4560,19 @@ Uttarakhand	Dehradun	All	Ramvihar, Ballupur	https://health.uk.gov.in/files/2020.
 Uttarakhand	Haridwar	All	Gram Tikampur, Pargana Jwalapur	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Gram Gaindikhata, Haridwar	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
 Uttarakhand	Haridwar	All	Gram Khedi Shikohpur, Bhagwanpur 	https://health.uk.gov.in/files/2020.06.09_Health_Bulletin.pdf
-Madhya Pradesh	Bhopal	All	म. न. 44 अहाता सिकन्दर कुली पुल बोगदा, ऐशबाग (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 149, भारत टॉकिज सरदार पटेल नगर भोपाल, मंगलवारा (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	146, इतवारा भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	33, खलील मजिल जुमेराती भोपाल, कोतवाली (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 7 ए शाहनशाह गार्डन, अशोकागार्डन (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	152 बी गायत्री नगर जे.के. रोड भोपाल, अशोकागार्डन (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	वर्धमान ग्रीन पार्क 48 अशोकागार्डन भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 20 गली न. 2 बुधवारा चार बत्ती चौराहा मछली मार्केट बुधवारा, तलैया (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 11, नियर भारतीय विद्या मंदिर पंचशील, टीटी नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	जय भीम नगर, टीटी नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 20 गिदवानी पार्क बैरागढ (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	आंबेडकर नगर भोपाल, कमला नगर (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
-Madhya Pradesh	Bhopal	All	म.न. 325 सेक्टर 02 शक्ति नगर भोपाल (NEW)	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म. न. 44 अहाता सिकन्दर कुली पुल बोगदा, ऐशबाग	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 149, भारत टॉकिज सरदार पटेल नगर भोपाल, मंगलवारा	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	146, इतवारा भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	33, खलील मजिल जुमेराती भोपाल, कोतवाली	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 7 ए शाहनशाह गार्डन, अशोकागार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	152 बी गायत्री नगर जे.के. रोड भोपाल, अशोकागार्डन	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	वर्धमान ग्रीन पार्क 48 अशोकागार्डन भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 20 गली न. 2 बुधवारा चार बत्ती चौराहा मछली मार्केट बुधवारा, तलैया	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 11, नियर भारतीय विद्या मंदिर पंचशील, टीटी नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	जय भीम नगर, टीटी नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 20 गिदवानी पार्क बैरागढ	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	आंबेडकर नगर भोपाल, कमला नगर	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
+Madhya Pradesh	Bhopal	All	म.न. 325 सेक्टर 02 शक्ति नगर भोपाल	https://cdn.s3waas.gov.in/s337a749d808e46495a8da1e5352d03cae/uploads/2020/06/2020060943.pdf
 Karnataka	Bengaluru Urban	All	a street in Chalavadipalya (New)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
 Karnataka	Bengaluru Urban	All	a street in Vishveshwara Puram (NEW)	https://www.facebook.com/bbmp.comm1/photos/pcb.1868923669909555/1868922083243047/?type=3&theater
 Maharashtra 	Nashik	All	CIDCO	https://twitter.com/my_nmc/status/1270333834907639808/photo/2
